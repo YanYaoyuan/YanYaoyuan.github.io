@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YanYaoyuan 燕瑶院"
+title                    : "YanYaoYuan"
 title_separator          : "-"
 name                     : &name "燕瑶院"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "YanYaoYuan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "一川烟草，满城风絮，梅子黄时雨"
   location         : "Shanghai China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
